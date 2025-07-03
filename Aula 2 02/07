@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Aula 2 HTML</title>
+</head>
+<body>
+<h1>título da página</h1>
+<a href="#secao2"> pular para a seçao 2</a>
+<h2 id="content"> subtitulo da página ou título de seção</h2>
+<h2  
+<h2> id="secao2"> uma nova seção <h/2>
+    <p>Elementos block!</p>
+    <div>é um elemento block também</div>
+</body>
+</html>
